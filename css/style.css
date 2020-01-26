@@ -372,8 +372,8 @@ p {
     height: 150px;
     width: 150px;
     background: url(../img/kaysmallred.jpg);
-    border-radius: 10%;
-    background-repeat: no-repeat;
+    border-radius: 50%;
+    background-repeat: no-repeat;  
     background-size: cover; }
 
 /********Header Sec CSS********/
