@@ -1,8 +1,4 @@
 * Documentation folder :
-CSV type website for Kaloot based on jekyll engine.
-
-author: ken mcfadden eaglerockdude
-
 To view all the documentation go to documentation folder and open index.html in your favourite browser.
 
 To directly go to a particular demo go to the respective demo folder and open index.html in your favourite browser.
